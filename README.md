@@ -1,1 +1,5 @@
-# simran_aptos_code
+A token vesting dApp is a decentralized application designed to automate and manage the distribution of tokens according to a predefined vesting schedule. This is commonly used by blockchain projects to distribute tokens to team members, investors, advisors, or community members over time, ensuring that recipients receive their tokens gradually instead of all at once.
+
+The dApp allows users to create custom vesting schedules, set up cliffs (initial waiting periods), and define release intervals. Once the vesting plan is set up, the dApp handles the release of tokens automatically, based on the conditions specified.
+
+This ensures transparency, security, and trust between the token issuer and the recipients, as the entire process is governed by smart contracts on the blockchain. Recipients can track their vested tokens and withdraw them as they become available. The token vesting dApp is particularly valuable for projects looking to incentivize long-term commitment and prevent token dumps that could affect market stability.
